@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="431" height="89" alt="image" src="https://github.com/user-attachments/assets/29da29b6-6176-4c5c-a955-e3538515780f" />
+</p>
+
 # O.A.S.I.S. - Obstacle Avoidance Sensory Interface System
 
 O.A.S.I.S. is a wearable haptic feedback system integrated into a belt architecture designed to assist visually impaired individuals in spatial navigation. The system dynamically monitors obstacles at waist-to-chest height using infrared Time-of-Flight (ToF) telemetry and translates physical distance data into deterministic tactile frequency patterns.
