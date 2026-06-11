@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OASIS_Library") (type "KiCad") (uri "C:/Users/jonas/OneDrive - DIG-IT Produktive Umgebung/Desktop/BÜP/OASIS_Library.pretty") (options "") (descr ""))
+	(lib (name "OASIS_Library") (type "KiCad") (uri "G:/Meine Ablage/KiCad/Library/OASIS_Library.pretty") (options "") (descr ""))
+)
